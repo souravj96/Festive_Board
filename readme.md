@@ -47,4 +47,4 @@ echo -n -e '1154' > /dev/tty.HC-05
 
 Adjust the pin configurations and character sets according to your specific hardware and requirements.
 
-![Diagram]("./Festive_Board.png")
+![Diagram](Festive_Board.png)
